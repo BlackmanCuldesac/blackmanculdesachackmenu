@@ -1,6 +1,8 @@
 --[[BBVERSION=083
+
 Before we start take your resolution and subtract it until it equals five and then put the number
 you subtracted by in the ScreenWidth and also subtract the height.
+
 ]]
 
 ScreenWidth = ScrW() - 1147 -- Take the first number of your resolution and subtract it to make it equal to five
